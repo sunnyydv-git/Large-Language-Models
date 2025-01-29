@@ -1,7 +1,9 @@
 **🚀 Exploring Large Language Models (LLMs)**
+
 Welcome to my Large Language Models (LLMs) repository, where I document my learning journey, practical implementations, and hands-on projects related to LLMs. This repository serves as a resource for understanding and experimenting with powerful language models.
 
 **📌 About This Repository**
+
 This repository explores key LLM concepts, including transformers, tokenization, attention mechanisms, and model fine-tuning using PyTorch and Hugging Face. I’ll be working on real-world applications like text generation, summarization, and chatbot development, sharing insights, optimizations, and challenges along the way.
 
 **🛠 Technologies Used**
@@ -15,6 +17,7 @@ OpenAI & LangChain (if applicable)
 
 
 📁 LLMs-Repository
+
 │── 📄 README.md  
 │── 📁 Notebooks/                       # Jupyter notebooks for experiments  
 │── 📁 Projects/                        # Hands-on projects  
