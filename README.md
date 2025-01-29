@@ -8,9 +8,13 @@ This repository explores key LLM concepts, including transformers, tokenization,
 
 **🛠 Technologies Used**
 Python
+
 PyTorch
+
 Hugging Face Transformers
+
 NLTK & spaCy
+
 OpenAI & LangChain (if applicable)
 
 **📂 Repository Structure**
